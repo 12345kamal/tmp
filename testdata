@@ -5,5 +5,6 @@
       "slack_channel":"my_slack_channel",
       "team_email":"my_team_email@xyz.com"
       "hello"
+      "testing"
    }
 }
