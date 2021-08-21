@@ -1,0 +1,8 @@
+{
+   "repo":"my_repo",
+   "is_production":"true",
+   "maintainer":{
+      "slack_channel":"my_slack_channel",
+      "team_email":"my_team_email@xyz.com"
+   }
+}
